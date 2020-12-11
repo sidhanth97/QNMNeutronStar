@@ -1,2 +1,2 @@
-# g_modes
+# GModes
 QNM for neutron star
